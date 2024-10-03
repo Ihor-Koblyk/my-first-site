@@ -1,0 +1,35 @@
+.br{margin-bottom: 4em;}
+
+.center{text-align: center;}
+
+h1, .textcenter{text-align: center; margin-top: 70px;} 
+
+.c1 {color: red}
+.c2 {color: blue}
+
+.textright {text-align: right; margin-top: 70px;}
+
+.text150 {margin-top: 150px;}
+
+h2 {text-align: center; color: green; font-size: 6}
+
+body {font-family: Arial, sans-serif;}
+
+.logo {width: 150 px; float: left; margin-right: 10px;}
+
+.fontsize {font-size: 3;}
+
+.sidebar {width: 200px;}
+
+.imgpc {width: 150px; height: auto; float: left; margin-right: 10px;}
+
+.imgwbp {float: right; width: 200px; height: auto;}
+
+table {width: 100%; height: 100%;}
+
+.img450 {width: 300px;}
+
+.imgmicuk {width: 300px; float: left; margin-right: 10px;}
+
+.anchor {color: darkslategrey}
+
